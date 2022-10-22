@@ -1,2 +1,2 @@
-# dio-orange-tech
-Bootcamp DIO Orange Tech do Banco Digital Inter
+# Bootcamp DIO Orange Tech do Banco Digital Inter
+- Introdução e apresentação do projeto
